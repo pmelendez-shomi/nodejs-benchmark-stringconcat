@@ -1,0 +1,15 @@
+{
+  "name": "string-benchmark",
+  "version": "1.0.0",
+  "description": "Microbenchmark of several string concatenation techniques in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Melendez",
+  "license": "ISC",
+  "dependencies": {
+    "benchmark": "^2.1.0",
+    "microtime": "^2.0.0"
+  }
+}
